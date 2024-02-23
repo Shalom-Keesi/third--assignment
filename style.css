@@ -1,0 +1,24 @@
+.Form{
+    margin: 0 auto;
+    width: 25%;
+    padding: 24px;
+    height: 5%;
+
+}
+.Image{
+    position: absolute;
+    height: 100%;
+    width: 70%;
+    top: auto;
+    left: auto;
+}
+.buttonbt{
+    background-color: blue;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 5px;
+    margin: 7px 0;
+    width: 80%;
+
+}
+
